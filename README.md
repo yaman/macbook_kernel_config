@@ -1,2 +1,9 @@
 # macbook_kernel_config
-Macbook Pro 2014 Kernel config file
+MacBook Pro 2014 Kernel config file
+
+**Kernel configuration for MacBook Pro 2014**
+
+*Enabled modules*
+
+-Docker modules
+-Thunderbolt
